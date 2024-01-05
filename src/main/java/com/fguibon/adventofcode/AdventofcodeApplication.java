@@ -1,4 +1,4 @@
-package java.com.fguibon.adventofcode;
+package com.fguibon.adventofcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
